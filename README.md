@@ -61,6 +61,6 @@ Arduino Application, 1.8.1.1
 
 ## 제작자
 
-이윤서 : 성균관대학교 기계공학부 19학번, [이메일](leejimmy1@g.skku.edu)
+Corinyi and SIOR
 
-채수권 : 성균관대학교 전기전자공학부 16학번, [이메일](koina0726@naver.com)
+Copyright @ 2019 Sungkyunkwan Institute of Robotics
