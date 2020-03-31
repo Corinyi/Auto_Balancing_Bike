@@ -2,7 +2,7 @@
 -------------------------
 ##스스로 균형을 잡고 컨트롤 할수 있는 자전거 로봇
 
-<img src="/image/IMG_4947_2.jpeg" width="60%" height="60%" title="Auto Balancing Bike"></img>
+<img src="/image&video/IMG_4947_2.jpeg" width="60%" height="60%" title="Auto Balancing Bike"></img>
 
 완성된 모습
 
