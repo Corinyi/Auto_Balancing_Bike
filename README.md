@@ -6,6 +6,7 @@
 
 완성된 모습
 
+[전시회 판넬 자전거팀.pdf](https://github.com/Corinyi/Auto_Balancing_Bike/files/8103481/default.pdf)
 
 ## 하드웨어 구성
 
